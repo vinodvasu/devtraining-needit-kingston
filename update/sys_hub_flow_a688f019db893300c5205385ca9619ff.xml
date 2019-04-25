@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test_flow</internal_name>
+        <label_cache>[{"name":"4da6a886-21f5-4ad1-af58-dee0d7b49c83.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"4da6a886-21f5-4ad1-af58-dee0d7b49c83.Record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"}]</label_cache>
+        <latest_snapshot>47fcb4d9db893300c5205385ca961910</latest_snapshot>
+        <master_snapshot>47fcb4d9db893300c5205385ca961910</master_snapshot>
+        <name>Test Flow</name>
+        <outputs/>
+        <remote_trigger_id>17fcb4d9db893300c5205385ca961956</remote_trigger_id>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-25 09:09:31</sys_created_on>
+        <sys_id>a688f019db893300c5205385ca9619ff</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Test Flow</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_a688f019db893300c5205385ca9619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-25 09:29:19</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=a688f019db893300c5205385ca9619ff"/>
+    <sys_variable_value action="delete_multiple" query="document_key=a688f019db893300c5205385ca9619ff"/>
+</record_update>
